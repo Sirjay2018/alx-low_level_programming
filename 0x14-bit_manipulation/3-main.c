@@ -19,4 +19,5 @@ int main(void)
     n = 98;
     set_bit(&n, 0);
     printf("%lu\n", n);
-    return (
+    return (0);
+}
